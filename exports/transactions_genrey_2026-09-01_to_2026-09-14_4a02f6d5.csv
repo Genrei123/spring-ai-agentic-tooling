@@ -1,0 +1,9 @@
+id,type,category,amount,description,occurred_at
+1,BUDGET,,500.00,Monthly food+transport budget,2026-09-01T08:00:00
+2,EXPENSE,food,200.00,Groceries - SM Supermarket,2026-09-02T12:30:00
+3,EXPENSE,transport,80.00,Grab ride to work,2026-09-03T07:45:00
+4,EXPENSE,food,45.50,Lunch at Jollibee,2026-09-05T12:15:00
+5,EXPENSE,bills,60.00,Mobile load,2026-09-06T19:00:00
+6,INCOME,,150.00,Freelance gig payout,2026-09-10T10:00:00
+7,EXPENSE,transport,35.00,Jeepney fare - week,2026-09-12T08:00:00
+8,EXPENSE,food,90.00,Dinner with friends,2026-09-14T20:00:00

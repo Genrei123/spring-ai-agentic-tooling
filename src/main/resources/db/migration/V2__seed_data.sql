@@ -1,0 +1,9 @@
+INSERT INTO transactions (person, type, category, amount, description, occurred_at) VALUES
+                                                                                        ('Genrey', 'BUDGET',  NULL,          500.00, 'Monthly food+transport budget', '2026-09-01 08:00:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'food',        200.00, 'Groceries - SM Supermarket',    '2026-09-02 12:30:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'transport',    80.00, 'Grab ride to work',             '2026-09-03 07:45:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'food',         45.50, 'Lunch at Jollibee',             '2026-09-05 12:15:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'bills',        60.00, 'Mobile load',                   '2026-09-06 19:00:00'),
+                                                                                        ('Genrey', 'INCOME',  NULL,          150.00, 'Freelance gig payout',          '2026-09-10 10:00:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'transport',    35.00, 'Jeepney fare - week',           '2026-09-12 08:00:00'),
+                                                                                        ('Genrey', 'EXPENSE', 'food',         90.00, 'Dinner with friends',           '2026-09-14 20:00:00');
